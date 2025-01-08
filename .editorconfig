@@ -1,6 +1,3 @@
-# Be sure to have installed the EditorConfig extension for VS Code -> https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-
-# top-most EditorConfig file
 root = true
 
 [*]
