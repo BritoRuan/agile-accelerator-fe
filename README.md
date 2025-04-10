@@ -13,8 +13,6 @@ Você pode consultar a documentação oficial da API [aqui](https://pixabay.com/
 
 Para utilizar a API Pixabay, você precisa de uma chave de API. Registre-se no site [Pixabay](https://pixabay.com) para obter uma.
 
-Chave API: `48111710-9796b8cff12b655de682c1d1b`.
-
 ---
 
 ## Tecnologias e Ferramentas
